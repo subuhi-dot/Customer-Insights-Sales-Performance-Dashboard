@@ -23,4 +23,10 @@ This project analyzes sales data to understand customer behavior, product perfor
 ## 💡 Recommendations
 - Focus on high-performing categories  
 - Improve low-performing products  
-- Target repeat customers  
+- Target repeat customers
+## Dataset
+
+The cleaned dataset (`my_clean_dataset.csv`) is included in this repository.
+
+Note: GitHub may not display the file due to its size.  
+Please download it to view the contents locally. 
